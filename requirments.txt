@@ -1,0 +1,13 @@
+python3.6
+django
+tesseract
+cv2
+nltk library
+tensorflow=1.8
+keras 2.3.1
+gensim
+article dataset="http://goo.gl/forms/5i4KldoWIX"
+glove vectors
+#need to change out location from views
+
+run using - python manage.py runserver 
